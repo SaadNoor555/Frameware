@@ -11,6 +11,7 @@ using Frameware.Model;
 
 namespace Frameware.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class StudentsController : ControllerBase
